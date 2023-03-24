@@ -1,0 +1,8 @@
+"./Src/Timer_Delay.o"
+"./Src/adc.o"
+"./Src/syscalls.o"
+"./Src/sysmem.o"
+"./Src/systick.o"
+"./Src/tim.o"
+"./Src/uart.o"
+"./Startup/startup_stm32f411vetx.o"
